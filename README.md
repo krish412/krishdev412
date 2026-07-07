@@ -1,5 +1,5 @@
 # 💫 About Me:
-FULL STACK DEVELOPER | MERN STACK |API DEVELOPER | 
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
@@ -11,9 +11,6 @@ FULL STACK DEVELOPER | MERN STACK |API DEVELOPER |
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krish412&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=krish412&limit=5&theme=default&combine_all_yearly_contributions=true)
